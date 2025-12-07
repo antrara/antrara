@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200">
+</pattern>
+
+
+<!-- Styles -->
+<style>
+.title { font: 900 60px 'Segoe UI', sans-serif; }
+.sub { font: 400 20px 'Segoe UI', sans-serif; }
+.jitter { animation: jitter 0.2s infinite steps(2); }
+@keyframes jitter {
+0% { transform: translate(0,0); }
+25% { transform: translate(-3px,2px); }
+50% { transform: translate(3px,-2px); }
+75% { transform: translate(-2px,-1px); }
+100% { transform: translate(0,0); }
+}
+.flicker { animation: flick 1.4s infinite; }
+@keyframes flick {
+0%, 100% { opacity: 1; }
+45% { opacity: 0.6; }
+50% { opacity: 0.2; }
+55% { opacity: 0.9; }
+}
+.burst { animation: burst 2.5s infinite; }
+@keyframes burst {
+0%,30% { opacity: 0; }
+31% { opacity: 0.3; }
+32% { opacity: 0; }
+70% { opacity: 0; }
+71% { opacity: 0.25; }
+72% { opacity: 0; }
+}
+</style>
+</defs>
+
+
+<rect width="100%" height="100%" fill="#0a0d12" />
+<rect width="100%" height="100%" fill="url(#scan)" opacity="0.25" />
+
+
+<!-- Glow background flicker -->
+<rect width="100%" height="100%" fill="#0ff" opacity="0.06" class="flicker" />
+
+
+<!-- Title layers -->
+<g transform="translate(50,70)">
+<text class="title" fill="#0ff" filter="url(#split)">Dexs</text>
+<text class="title jitter" fill="#f0f" opacity="0.7" transform="translate(4,-2)">Dexs</text>
+<text class="title jitter flicker" fill="#fff" opacity="0.9">Dexs</text>
+
+
+<text class="sub" fill="#cbd5e1" y="70">Cybersecurity · QA Automation · Hardware Engineering</text>
+</g>
+
+
+<!-- Random noise burst -->
+<rect width="100%" height="100%" filter="url(#noise)" opacity="0.07" class="burst" />
+</svg>
