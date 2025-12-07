@@ -46,7 +46,6 @@ Sistem glove yang ngirim gesture ke mobil remote pakai SPI + motor driver. Fokus
 
 Eksperimen bikin PDF grid maker & converter.
 
-*(Tambahin project lo nanti biar makin solid!)*
 
 ---
 
@@ -61,7 +60,6 @@ Eksperimen bikin PDF grid maker & converter.
 
 ## 📫 Connect With Me
 
-*(Isi nanti kalau mau)*
 
 ---
 
