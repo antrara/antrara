@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./banner.svg" width="900" alt="Glitch Banner" />
+</p>
+
+
 # Hi there, I'm Antrara 👋
 
 ## 🚀 Cybersecurity Beginer | Tech Enthusiast | Always Learning
