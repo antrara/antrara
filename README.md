@@ -1,7 +1,7 @@
 # Hi there, I'm Antrara 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Passionate+Frontend+Developer;Cybersecurity+Enthusiast;QA+%26+Testing+Expert;Home+Lab+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Passionate+Frontend+Developer;Cybersecurity+Expert;QA+%26+Testing+Expert;Home+Lab+Builder" alt="Typing SVG" />
 </div>
 
 <p align="center">
