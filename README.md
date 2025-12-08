@@ -16,7 +16,7 @@
 ```javascript
 const antrara = {
     location: "Anywhere 🌍",
-    role: "Frontend Developer",
+    role: "Cybersec",
     currentFocus: ["Home Lab", "Cybersecurity"],
     learning: ["Cybersecurity", "DevSecOps"],
     collaboration: "Open to Home Lab projects",
