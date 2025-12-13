@@ -937,7 +937,7 @@ const career = {
 ### 📧 **OR SHOOT ME AN EMAIL** 📧
 
 ```
-📬 your.email@example.com
+📬 Antrara.who@report.com
 💼 Available for: Freelance | Collaboration | Interesting Projects
 ⏰ Response Time: Usually within 24 hours ⚡
 ```
