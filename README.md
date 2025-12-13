@@ -26,6 +26,399 @@
 
 <div align="center">
 
+## 🎓 **LEARNING ARSENAL & INDUSTRY INTEL** 🎓
+
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+
+### 🔥 **WHERE I SHARPEN MY SKILLS** 🔥
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+</div>
+
+---
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 **CYBERSECURITY PLATFORMS & LABS** 🎯
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="120">
+</div>
+
+#### 🚀 **ACTIVE TRAINING GROUNDS**
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/antrara.png" alt="TryHackMe Badge" width="200">
+
+**🔴 TryHackMe**
+```bash
+$ attack_defense_mode: ACTIVE
+> Mastering guided labs & scenarios
+> Hands-on cybersecurity training
+> Real-world attack simulations
+```
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
+
+**🟢 Hack The Box**
+```python
+penetration_level = "Advanced"
+mode = "Realistic Attack Simulations"
+status = "Actively Pwning Boxes 💀"
+```
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://hackthebox.eu)
+
+**🟠 PortSwigger Web Security Academy**
+```javascript
+const webSec = {
+    focus: "Web Application Security",
+    practice: "Burp Suite Labs",
+    level: "Advanced Training"
+}
+```
+[![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net)
+
+**⚡ OverTheWire**
+```bash
+#!/bin/bash
+echo "Linux Security Challenges"
+echo "Command-line mastery unlocked 🔓"
+```
+[![OverTheWire](https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge&logo=linux&logoColor=white)](https://overthewire.org)
+
+<div align="center">
+
+**📊 LAB STATS**
+| Platform | Level | Status |
+|----------|-------|--------|
+| 🔴 TryHackMe | ⭐⭐⭐⭐☆ | Active |
+| 🟢 Hack The Box | ⭐⭐⭐⭐☆ | Active |
+| 🟠 PortSwigger | ⭐⭐⭐⭐☆ | Training |
+| ⚡ OverTheWire | ⭐⭐⭐⭐⭐ | Mastered |
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎤 **INDUSTRY CONFERENCES & INTEL** 🎤
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="120">
+</div>
+
+#### 🔥 **KNOWLEDGE SOURCES**
+
+**⚫ Black Hat**
+```python
+research_focus = {
+    "level": "Enterprise Security",
+    "topics": [
+        "Advanced Threat Intelligence",
+        "Zero-Day Research",
+        "Security Techniques"
+    ],
+    "attending": "Virtually & Physically"
+}
+```
+[![BlackHat](https://img.shields.io/badge/Black_Hat-000000?style=for-the-badge&logo=blackhat&logoColor=white)](https://blackhat.com)
+
+**🔴 DEF CON**
+```bash
+$ cat defcon.conf
+> Offensive Security: ENABLED
+> Vulnerability Research: ACTIVE
+> Community Engagement: MAXIMUM
+> Hacker Mindset: TRUE
+```
+[![DEFCON](https://img.shields.io/badge/DEF_CON-FF0000?style=for-the-badge&logo=defcon&logoColor=white)](https://defcon.org)
+
+**🔴 Red Hat**
+```javascript
+const enterprise = {
+    focus: "Linux Administration",
+    expertise: "Open Source Security",
+    practices: "Enterprise Hardening"
+}
+```
+[![RedHat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://redhat.com)
+
+<div align="center">
+
+**🎯 CONFERENCE ENGAGEMENT**
+
+<img src="https://img.shields.io/badge/Black_Hat-Following-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/DEF_CON-Engaged-FF0000?style=flat-square" />
+<img src="https://img.shields.io/badge/Red_Hat-Learning-EE0000?style=flat-square" />
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<div align="center">
+
+### 📚 **DOCUMENTATION & TECHNICAL REFERENCES** 📚
+
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="120">
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center">
+
+**🐉 Kali Linux Docs**
+
+<img src="https://www.kali.org/images/kali-logo.svg" width="80">
+
+```bash
+$ man kali
+```
+
+Security toolsets & testing methodologies
+
+[![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://kali.org/docs)
+
+</td>
+<td width="25%" align="center">
+
+**🎩 Red Hat Docs**
+
+<img src="https://img.icons8.com/color/96/000000/redhat.png" width="80">
+
+```bash
+$ rhel --docs
+```
+
+Enterprise Linux & security hardening
+
+[![RHEL](https://img.shields.io/badge/RHEL_Docs-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://access.redhat.com/documentation)
+
+</td>
+<td width="25%" align="center">
+
+**⚔️ MITRE ATT&CK**
+
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/96/000000/external-attack-martial-arts-flaticons-flat-flat-icons.png" width="80">
+
+```python
+framework = "TTPs"
+```
+
+Adversary tactics & techniques framework
+
+[![MITRE](https://img.shields.io/badge/MITRE_ATT&CK-005B94?style=for-the-badge&logo=mitre&logoColor=white)](https://attack.mitre.org)
+
+</td>
+<td width="25%" align="center">
+
+**🛡️ OWASP**
+
+<img src="https://owasp.org/assets/images/logo.png" width="80">
+
+```javascript
+top10 = true;
+```
+
+Application security standards & frameworks
+
+[![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org)
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<div align="center">
+
+### 💻 **CODE & OPEN-SOURCE ECOSYSTEM** 💻
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120">
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+
+**🐙 GitHub Universe**
+
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="150">
+
+```python
+class OpenSource:
+    def __init__(self):
+        self.focus = [
+            "Security Tools",
+            "Automation Scripts",
+            "Research Projects"
+        ]
+        self.contribution = "Active"
+        self.learning = "Continuous"
+```
+
+**🔥 WHAT I'M EXPLORING:**
+- 🛠️ Security automation tools
+- 🔐 Vulnerability scanners
+- 🤖 Python security scripts
+- 🔍 OSINT frameworks
+- 🚀 DevSecOps pipelines
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+
+</td>
+<td width="50%" align="center" valign="top">
+
+**💣 Exploit Database**
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="150">
+
+```bash
+#!/bin/bash
+searchsploit --update
+echo "Vulnerability research mode: ACTIVE"
+```
+
+**🎯 RESEARCH FOCUS:**
+- 🔓 Public vulnerability database
+- 💥 Exploit references & PoCs
+- 📊 CVE tracking & analysis
+- 🎓 Security research papers
+- ⚡ Latest threat intelligence
+
+[![ExploitDB](https://img.shields.io/badge/Exploit_DB-FF0000?style=for-the-badge&logo=exploit-database&logoColor=white)](https://exploit-db.com)
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+### 🎯 **LEARNING ORIENTATION** 🎯
+
+<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="150">
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 🏢 **INDUSTRY-ALIGNED**
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+```typescript
+const approach = {
+    alignment: "Industry Standards",
+    practices: "Real-World",
+    compliance: "Best Practices"
+}
+```
+
+✅ Following industry standards
+<br/>
+✅ Real-world scenarios
+<br/>
+✅ Professional methodologies
+<br/>
+✅ Compliance-focused
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### ⚔️ **OFFENSIVE & DEFENSIVE**
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+
+```python
+security_domains = {
+    "offensive": "Red Team Tactics",
+    "defensive": "Blue Team Ops",
+    "balance": "Purple Team Mind"
+}
+```
+
+🔴 Offensive Security (Red Team)
+<br/>
+🔵 Defensive Security (Blue Team)
+<br/>
+🟣 Combined Approach (Purple)
+<br/>
+⚡ Full-spectrum mindset
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🚀 **CONTINUOUS GROWTH**
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+```bash
+while true; do
+    learn_new_skill
+    practice_daily
+    contribute_community
+    level_up
+done
+```
+
+📚 Community-driven learning
+<br/>
+🔬 Research-based approach
+<br/>
+🧪 Lab-first methodology
+<br/>
+♾️ Never stop improving
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🏆 **COMMITMENT TO EXCELLENCE** 🏆
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
+
+```javascript
+const philosophy = {
+    learning: "Hands-on & Practical",
+    community: "Active Contributor",
+    ethics: "Responsible Security",
+    growth: "Continuous & Relentless"
+};
+
+console.log("Breaking things to make them stronger 💪");
+```
+
+<img src="https://img.shields.io/badge/Learning-Never_Stops-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Community-Active-FF6D00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Ethics-First-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Growth-Continuous-blueviolet?style=for-the-badge" />
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+<div align="center">
+
 ## 🚀 **ABOUT THIS LEGEND** 🚀
 
 </div>
