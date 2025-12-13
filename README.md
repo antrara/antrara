@@ -749,56 +749,74 @@ const career = {
 
 ## ⚡ **TECH ARSENAL** ⚡
 
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" alt="Swords" width="100" />
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### 🔥 **LANGUAGES** 🔥
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,rust,php,kotlin,bash,java,go,typescript,javascript&perline=12&theme=dark" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" /> <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,rust,php,kotlin,bash,java,go,typescript,javascript&perline=12&theme=dark" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antrara&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6D00&text_color=FFFFFF&langs_count=12" />
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ### 💻 **FRONTEND MASTERY** 💻
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,bootstrap,sass,html,css,webpack,vite&perline=12&theme=dark" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="25" /> <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,bootstrap,sass,html,css,webpack,vite&perline=12&theme=dark" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="25" />
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### 🧪 **TESTING & QA ARSENAL** 🧪
 
-<img src="https://skillicons.dev/icons?i=cypress,jest,selenium&theme=dark" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" alt="Test" width="25" /> <img src="https://skillicons.dev/icons?i=cypress,jest,selenium&theme=dark" />
 <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" alt="Test" width="25" />
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### 🔧 **DEVOPS & CLOUD** 🔧
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,gitlab,github,githubactions,terraform,ansible,prometheus,grafana,nginx,linux&perline=12&theme=dark" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" /> <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,gitlab,github,githubactions,terraform,ansible,prometheus,grafana,nginx,linux&perline=12&theme=dark" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" />
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### ☁️ **CLOUD PLATFORMS** ☁️
 
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,heroku,vercel,netlify,cloudflare,digitalocean&perline=8&theme=dark" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="25" /> <img src="https://skillicons.dev/icons?i=aws,azure,gcp,heroku,vercel,netlify,cloudflare,digitalocean&perline=8&theme=dark" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="25" />
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### 🗄️ **DATABASES & STORAGE** 🗄️
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,cassandra&perline=6&theme=dark" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Database" width="25" /> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,cassandra&perline=6&theme=dark" />
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Database" width="25" />
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### 🛠️ **TOOLS & UTILITIES** 🛠️
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,vim,git,arduino,raspberrypi,postman,figma&perline=8&theme=dark" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" /> <img src="https://skillicons.dev/icons?i=vscode,idea,vim,git,arduino,raspberrypi,postman,figma&perline=8&theme=dark" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" />
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
 
 ## 📊 **GITHUB STATS ON FIRE** 🔥
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="100" />
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="40" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="40" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning" width="40" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=antrara&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6D00&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=percentile" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=antrara&theme=radical&hide_border=true&background=0D1117&stroke=FF6D00&ring=FF6D00&fire=FF6D00&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" />
@@ -806,13 +824,19 @@ const career = {
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antrara&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6D00&text_color=FFFFFF&langs_count=12" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=antrara&custom_title=📈%20Contribution%20Graph&bg_color=0D1117&color=FF6D00&line=00D9FF&point=FFFFFF&area=true&hide_border=true&area_color=00D9FF" />
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ### 📈 **DETAILED ANALYTICS** 📈
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="60" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antrara&theme=radical" width="100%" />
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antrara&theme=radical" />
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antrara&theme=radical" />
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antrara&theme=radical" />
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=antrara&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6D00&text_color=FFFFFF&layout=compact" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=antrara&repo=antrara&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6D00&text_color=FFFFFF&icon_color=00D9FF" width="49%" />
@@ -821,17 +845,21 @@ const career = {
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
 
 ## 🏆 **TROPHY COLLECTION** 🏆
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="100" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=antrara&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&row=2&column=6" width="100%" />
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ### 🎖️ **ACHIEVEMENTS** 🎖️
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Medal.png" alt="Medal" width="60" />
 
 [![@antrara's Holopin board](https://holopin.me/antrara)](https://holopin.io/@antrara)
 
@@ -839,7 +867,7 @@ const career = {
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
 
