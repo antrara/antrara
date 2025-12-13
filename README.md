@@ -105,6 +105,255 @@ class Antrara extends Developer {
 
 <div align="center">
 
+## 💪 **TECHNICAL SUPERPOWERS** 💪
+
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="150">
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🐧 **OPERATING SYSTEMS & VIRTUALIZATION** 🐧
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" align="right">
+
+```bash
+$ whoami
+> System Administrator & VM Architect
+```
+
+**🔥 EXPERTISE:**
+- 🐧 **Linux Administration**
+  - Kali Linux (Pentesting Beast)
+  - Ubuntu (Daily Driver)
+  - Command-line ninja
+- 🪟 **Windows Troubleshooting**
+  - System diagnostics
+  - Performance optimization
+- 📦 **Virtual Machines**
+  - VirtualBox mastery
+  - Multi-OS environments
+- 🧪 **Lab Environments**
+  - Security testing labs
+  - Isolated network zones
+
+**⚡ POWER LEVEL:** ████████░░ 80%
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 **NETWORKING & INFRASTRUCTURE** 🌐
+
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" align="right">
+
+```bash
+$ netstat -tuln
+> All ports under my control
+```
+
+**🔥 EXPERTISE:**
+- 🔌 **Network Protocols**
+  - TCP/IP stack mastery
+  - DNS, DHCP, NAT config
+- 🔧 **Network Config**
+  - Fault isolation expert
+  - Traffic optimization
+- 🛡️ **Firewall & Security**
+  - pfSense implementation
+  - Gateway hardening
+- 🎯 **Network Design**
+  - Segmentation strategies
+  - Traffic control systems
+
+**⚡ POWER LEVEL:** ████████░░ 85%
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 **CYBERSECURITY & SEC OPS** 🔐
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" align="right">
+
+```python
+def hack_the_planet():
+    return "Ethically, of course! 😎"
+```
+
+**🔥 EXPERTISE:**
+- 🛡️ **Security Principles**
+  - Best practices adherent
+  - Security-first mindset
+- ⚔️ **Ethical Hacking**
+  - Pentesting methodologies
+  - Kali Linux toolset master
+- 🎯 **Vulnerability Analysis**
+  - OWASP Top 10 expert
+  - Threat identification
+  - Mitigation strategies
+- 🔍 **Reconnaissance**
+  - Information gathering
+  - Target enumeration
+- ⚖️ **Ethics & Compliance**
+  - Legal frameworks
+  - Responsible disclosure
+
+**⚡ POWER LEVEL:** ████████░░ 90%
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 **PROGRAMMING & SCRIPTING** 💻
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" align="right">
+
+```python
+languages = {
+    "Python": "Automation Master",
+    "Bash": "Linux Wizard",
+    "C": "System Sorcerer",
+    "Ruby": "Security Ninja"
+}
+```
+
+**🔥 EXPERTISE:**
+- 🐍 **Python**
+  - Automation scripts
+  - Task orchestration
+  - Security tools
+- 📜 **Bash Scripting**
+  - Linux automation
+  - System administration
+  - One-liners master
+- ⚙️ **C Programming**
+  - System-level code
+  - Performance critical apps
+- 💎 **Ruby**
+  - Security tooling
+  - Metasploit scripting
+
+**⚡ POWER LEVEL:** ███████░░░ 75%
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛠️ **TOOLS & PRACTICES** 🛠️
+
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80" align="right">
+
+```bash
+$ git commit -m "Perfect code, no bugs"
+> Mission accomplished! ✅
+```
+
+**🔥 EXPERTISE:**
+- 💻 **Command Line Pro**
+  - Terminal first approach
+  - Automation junkie
+- 🔀 **Version Control**
+  - Git workflows master
+  - Collaborative coding
+- 🔧 **Troubleshooting**
+  - System diagnostics
+  - Network analysis
+  - Root cause finding
+- 📝 **Documentation**
+  - Technical writing
+  - Incident reporting
+  - Knowledge transfer
+
+**⚡ POWER LEVEL:** ████████░░ 85%
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 **PROFESSIONAL FOCUS** 🎯
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="80" align="right">
+
+```javascript
+const career = {
+    target: "CyberSec Operations",
+    method: "Hands-on Labs",
+    mindset: "Never Stop Learning"
+}
+```
+
+**🔥 SPECIALIZATION:**
+- 🛡️ **Core Focus Areas**
+  - Cybersecurity operations
+  - System administration
+  - Network operations
+  - Security analysis
+- 🧪 **Learning Approach**
+  - Lab-driven methodology
+  - Practical over theory
+  - Break it, fix it, learn
+- 🧠 **Mindset**
+  - Analytical thinking
+  - Problem-solving oriented
+  - Detail obsessed
+  - Continuous learner
+
+**⚡ POWER LEVEL:** ████████░░ 88%
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🎖️ **SKILL MASTERY OVERVIEW** 🎖️
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+| 🏆 Category | 💪 Level | 📊 Progress | ⭐ Highlight |
+|-------------|----------|-------------|--------------|
+| **🐧 Linux Administration** | Expert | ████████░░ 85% | Kali Linux Specialist |
+| **🌐 Networking** | Advanced | ████████░░ 80% | pfSense Pro |
+| **🔐 Cybersecurity** | Advanced | ████████░░ 90% | OWASP Expert |
+| **💻 Programming** | Intermediate | ███████░░░ 75% | Python Automation |
+| **🛠️ Tools & Practices** | Expert | ████████░░ 85% | CLI Ninja |
+| **🎯 Problem Solving** | Expert | █████████░ 88% | Root Cause Master |
+
+<img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows,python,bash,c,ruby,vim,git,docker,vscode&theme=dark" />
+
+### 🔥 **SECURITY TOOLBOX** 🔥
+
+**🎯 Reconnaissance**
+<br/>
+<img src="https://img.shields.io/badge/Nmap-0078D4?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+
+**⚔️ Exploitation & Testing**
+<br/>
+<img src="https://img.shields.io/badge/Aircrack--ng-00C244?style=for-the-badge" />
+<img src="https://img.shields.io/badge/John_The_Ripper-FF0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge" />
+
+**🛡️ Defense & Analysis**
+<br/>
+<img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
+<img src="https://img.shields.io/badge/Snort-FF0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OSSEC-00ADD8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Fail2Ban-000000?style=for-the-badge" />
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+<div align="center">
+
 ## ⚡ **TECH ARSENAL** ⚡
 
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
