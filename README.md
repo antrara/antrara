@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F700&center=true&vCenter=true&random=false&width=600&lines=IT+Support+Professional;Cybersecurity+Enthusiast;System+Administrator;Network+Engineer;Security+Analyst)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F700&center=true&vCenter=true&random=false&width=600&lines=IT+Support+Professional;Cybersecurity+Enthusiast;System+Administrator;Network+Engineer;Security+Analyst;antrara+%7C+Tech+Defender)
 
 </div>
 
@@ -10,7 +10,7 @@ Saya adalah profesional IT yang fokus pada dukungan teknis dan keamanan siber. D
 
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=yourusername&color=green&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=antrara&color=green&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -59,9 +59,9 @@ Saya adalah profesional IT yang fokus pada dukungan teknis dan keamanan siber. D
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antrara&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=ffffff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=antrara&theme=dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
 
 </div>
 
