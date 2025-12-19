@@ -224,89 +224,212 @@ Dokumentasi lengkap untuk knowledge base, post-mortem analysis, dan continuous i
 
 </div>
 
-Saya berkomitmen untuk terus mengembangkan skill melalui berbagai platform learning, hands-on labs, CTF competitions, dan mengikuti perkembangan terbaru dalam threat landscape. Setiap vulnerability yang ditemukan adalah kesempatan untuk belajar dan memperkuat defense.
+Saya berkomitmen untuk terus mengembangkan skill melalui berbagai platform learning seperti HackTheBox dan TryHackMe, hands-on labs, CTF competitions, bug bounty hunting di HackerOne, dan mengikuti perkembangan terbaru dalam threat landscape. Self-taught sejak SMA, saya percaya bahwa learning by doing adalah cara terbaik untuk master cybersecurity. Setiap vulnerability yang ditemukan adalah kesempatan untuk belajar dan memperkuat defense.
 
 **Current Focus Areas:**
-- Advanced threat hunting techniques
-- Cloud security architecture (Azure & AWS)
-- Security automation dan SOAR implementation
-- Malware reverse engineering
-- Red team operations
+- Advanced penetration testing techniques
+- Bug bounty hunting & vulnerability research
+- Custom security tools development (DDoS/Anti-DDoS)
+- CTF competitions (HackTheBox & TryHackMe)
+- Defensive security & incident response
+- Security automation & scripting
 
 ---
 
 ## 🌟 Real-World Experience Highlights
 
 <details>
-<summary><b>🔐 Security Incident Management</b></summary>
+<summary><b>🔐 Penetration Testing Projects</b></summary>
 
 <br>
 
-- Handled multiple security incidents termasuk ransomware attempts, phishing campaigns, dan unauthorized access
-- Implemented security controls yang mengurangi security incidents hingga 70%
-- Developed dan maintained incident response playbooks untuk berbagai threat scenarios
-- Conducted forensic analysis untuk mengidentifikasi attack vectors dan IoCs
+- Conducted penetration testing untuk mengidentifikasi vulnerabilities pada web applications dan network infrastructure
+- Performed security assessments menggunakan industry-standard methodologies (OWASP, PTES)
+- Created detailed penetration testing reports dengan remediation recommendations
+- Hands-on experience dengan exploit development dan privilege escalation techniques
+- Tested various attack vectors termasuk SQL injection, XSS, CSRF, dan authentication bypass
 
 </details>
 
 <details>
-<summary><b>🖥️ IT Infrastructure Projects</b></summary>
+<summary><b>🛡️ Defensive Security Implementation</b></summary>
 
 <br>
 
-- Migration server infrastructure dengan zero downtime menggunakan phased approach
-- Implemented centralized log management dengan ELK Stack untuk 500+ endpoints
-- Deployed multi-factor authentication across organization
-- Designed dan implemented disaster recovery plan dengan RTO < 4 hours
-- Network segmentation project untuk meningkatkan security posture
+- Built dan implemented security monitoring systems untuk threat detection
+- Designed defense-in-depth strategies untuk protecting critical infrastructure
+- Configured firewall rules, IDS/IPS systems, dan security policies
+- Incident response handling dari detection hingga remediation
+- Security hardening untuk servers dan network devices
 
 </details>
 
 <details>
-<summary><b>👥 End-User Support Excellence</b></summary>
+<summary><b>🛠️ Custom Security Tools Development</b></summary>
 
 <br>
 
-- Maintained 98% user satisfaction rate dalam help desk operations
-- Reduced average ticket resolution time dari 4 jam menjadi 1.5 jam
-- Created comprehensive knowledge base dengan 200+ troubleshooting articles
-- Trained 50+ employees dalam security awareness dan best practices
-- Implemented self-service portal yang mengurangi basic tickets hingga 40%
+- **DDoS Attack Tools:** Developed custom DDoS testing tools untuk security research dan penetration testing purposes
+- **Anti-DDoS Protection:** Created mitigation systems dan rate-limiting mechanisms untuk protecting against DDoS attacks
+- Automation scripts untuk security tasks menggunakan Python dan Bash
+- Network security utilities untuk packet analysis dan traffic monitoring
+- Security testing frameworks untuk automated vulnerability scanning
 
 </details>
 
 <details>
-<summary><b>🔍 Vulnerability Management</b></summary>
+<summary><b>🎯 Bug Bounty Hunting</b></summary>
 
 <br>
 
-- Conducted regular vulnerability scans dan penetration tests pada production systems
-- Prioritized dan remediated critical vulnerabilities dengan SLA compliance 99%
-- Implemented automated patch management system untuk Windows dan Linux servers
-- Performed security audits dan compliance assessments
-- Collaborated dengan dev teams untuk secure code review
+- Active researcher di platform HackerOne
+- Vulnerability hunting pada real-world applications
+- Responsible disclosure practices
+- Experience dalam identifying OWASP Top 10 vulnerabilities
+- Continuous learning dari security community dan other researchers
+
+</details>
+
+<details>
+<summary><b>💻 IT Support Excellence</b></summary>
+
+<br>
+
+- Hands-on experience dalam troubleshooting hardware dan software issues
+- Network infrastructure setup dan maintenance
+- System administration untuk Windows dan Linux environments
+- User support dan technical documentation
+- Problem-solving complex technical challenges dengan systematic approach
+
+</details>
+
+<details>
+<summary><b>🎓 CTF & Hands-On Learning</b></summary>
+
+<br>
+
+- **HackTheBox:** Active participation dalam challenges dan machines
+- **TryHackMe:** Completing learning paths dan practical rooms
+- Self-paced learning sejak SMA untuk building strong foundation
+- Continuous skill development melalui practical exercises
+- Learning from CTF write-ups dan security community
 
 </details>
 
 ---
 
-## 📈 Professional Development Timeline
+## 🗺️ My Cybersecurity Journey
 
 ```mermaid
-gantt
-    title Continuous Learning Journey
-    dateFormat YYYY-MM
-    section Certifications
-    CompTIA A+          :done, 2022-01, 2022-03
-    CompTIA Network+    :done, 2022-04, 2022-06
-    CompTIA Security+   :done, 2022-07, 2022-09
-    CCNA               :done, 2023-01, 2023-04
-    section Advanced Skills
-    Penetration Testing :active, 2023-05, 2024-06
-    SIEM Mastery       :active, 2023-10, 2024-12
-    Cloud Security     :active, 2024-01, 2025-03
-    Threat Intelligence:active, 2024-06, 2025-06
+graph TB
+    Start([🎓 SMA Kelas 1<br/>Self-Taught Journey])
+    
+    Start --> Foundation[📚 IT Fundamentals<br/>Networking & Systems]
+    Start --> Security[🔐 Security Basics<br/>Self-Learning]
+    
+    Foundation --> ITSupport[💼 IT Support Role<br/>Real-World Experience]
+    Security --> ITSupport
+    
+    ITSupport --> Troubleshoot[🔧 Troubleshooting<br/>Problem Solving]
+    ITSupport --> Infrastructure[🌐 Infrastructure<br/>Network Management]
+    ITSupport --> UserSupport[👥 User Support<br/>Documentation]
+    
+    Troubleshoot --> OffSec[🔴 Offensive Security]
+    Infrastructure --> OffSec
+    Security --> OffSec
+    
+    OffSec --> Pentest[⚔️ Penetration Testing<br/>Web & Network]
+    OffSec --> VulnResearch[🔍 Vulnerability Research<br/>OWASP Top 10]
+    
+    Pentest --> BugBounty[🎯 Bug Bounty Hunting<br/>HackerOne Active]
+    VulnResearch --> BugBounty
+    
+    Security --> DefSec[🛡️ Defensive Security]
+    ITSupport --> DefSec
+    
+    DefSec --> IncidentResponse[🚨 Incident Response<br/>Threat Detection]
+    DefSec --> Monitoring[📊 Security Monitoring<br/>SIEM & Logs]
+    
+    OffSec --> ToolDev[🛠️ Tool Development]
+    DefSec --> ToolDev
+    
+    ToolDev --> DDoS[💥 DDoS Tools<br/>Attack Simulation]
+    ToolDev --> AntiDDoS[🛡️ Anti-DDoS<br/>Protection Systems]
+    ToolDev --> Automation[⚡ Security Automation<br/>Scripts & Utils]
+    
+    Pentest --> CTF[🎮 CTF Platforms]
+    VulnResearch --> CTF
+    
+    CTF --> HTB[📦 HackTheBox<br/>Machines & Challenges]
+    CTF --> THM[🎯 TryHackMe<br/>Learning Paths]
+    
+    BugBounty --> Learning[📈 Continuous Learning]
+    HTB --> Learning
+    THM --> Learning
+    IncidentResponse --> Learning
+    Monitoring --> Learning
+    DDoS --> Learning
+    AntiDDoS --> Learning
+    Automation --> Learning
+    
+    Learning --> Expert([🏆 CYBERSECURITY EXPERT<br/>Ultimate Goal])
+    
+    Expert --> ThreatHunting[🎯 Advanced Threat Hunting]
+    Expert --> SecArch[🏗️ Security Architecture]
+    Expert --> SecOps[⚙️ Security Operations Lead]
+    
+    style Start fill:#00ff00,stroke:#00ff00,stroke-width:3px,color:#000
+    style Expert fill:#ff0000,stroke:#ff0000,stroke-width:4px,color:#fff
+    style BugBounty fill:#ffa500,stroke:#ffa500,stroke-width:2px
+    style CTF fill:#00bfff,stroke:#00bfff,stroke-width:2px
+    style ToolDev fill:#ff69b4,stroke:#ff69b4,stroke-width:2px
+    style Learning fill:#9370db,stroke:#9370db,stroke-width:3px
+    style OffSec fill:#dc143c,stroke:#dc143c,stroke-width:2px
+    style DefSec fill:#32cd32,stroke:#32cd32,stroke-width:2px
 ```
+
+### 🎯 Journey Map Legend
+
+<div align="center">
+
+| 🟢 **Foundation** | 🔴 **Offensive** | 🟢 **Defensive** | 🟣 **Development** | 🔵 **Learning** | 🔴 **Goal** |
+|:------------------|:-----------------|:-----------------|:-------------------|:----------------|:------------|
+| Self-taught basics | Pentesting & Bug Bounty | Incident Response | Custom Tools | CTF & Continuous | Expert Level |
+
+</div>
+
+### 📍 Current Active Nodes
+
+<div align="center">
+
+| Node | Status | Priority | Focus |
+|:-----|:-------|:---------|:------|
+| 🎯 **Bug Bounty (HackerOne)** | ⚡ Active | High | Vulnerability Research |
+| 📦 **HackTheBox** | 🔄 Ongoing | High | Practical Skills |
+| 🎯 **TryHackMe** | 🔄 Ongoing | Medium | Learning Paths |
+| 🛠️ **Tool Development** | 🔄 Ongoing | Medium | DDoS/Anti-DDoS Systems |
+| ⚔️ **Penetration Testing** | ⚡ Active | High | Real-World Projects |
+| 🛡️ **Defensive Security** | ⚡ Active | High | Protection Systems |
+| 💼 **IT Support** | ✅ Experienced | - | Foundation Complete |
+
+</div>
+
+### 🔗 Skill Connections & Relationships
+
+**Offensive ↔️ Defensive Synergy:**
+- Pentesting experience → Better defense strategies
+- DDoS tool knowledge → Anti-DDoS development
+- Vulnerability research → Proactive patching
+
+**Learning ↔️ Practice Loop:**
+- CTF challenges → Real-world pentesting skills
+- Bug bounty findings → Tool development ideas
+- IT Support problems → Security awareness
+
+**Development ↔️ Operations:**
+- Custom tools → Automated security tasks
+- Scripts → Incident response efficiency
+- Monitoring systems → Threat detection
 
 ---
 
@@ -354,17 +477,17 @@ Saya percaya bahwa IT Support dan Cybersecurity bukan hanya tentang technical sk
 
 ### 💭 Professional Motto
 
-*"Security is not a product, but a process. IT Support is not just fixing problems, but preventing them."*
+*"Started as self-taught, evolving through practice, aiming for mastery. Every bug found, every system defended, every tool built - it's all part of the journey to becoming a cybersecurity expert."*
 
 ### 🎯 Mission Statement
 
-Memastikan setiap sistem yang saya tangani berjalan dengan optimal, secure, dan reliable. Setiap incident adalah pembelajaran, setiap vulnerability adalah kesempatan untuk memperkuat defense, dan setiap user yang terbantu adalah success story.
+Dari belajar otodidak sejak SMA hingga aktif di dunia bug bounty dan CTF, perjalanan saya adalah bukti bahwa passion dan dedication dapat membawa kesuksesan. Saya tidak hanya fokus pada offensive security (pentesting, bug bounty), tapi juga defensive (anti-DDoS, incident response), karena cybersecurity expert sejati harus menguasai kedua sisi. Target saya adalah menjadi ahli yang tidak hanya bisa menemukan vulnerability, tapi juga membangun sistem yang secure dan resilient.
 
 ---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Secure%20%E2%80%A2%20Reliable%20%E2%80%A2%20Always%20Ready%20%F0%9F%94%92&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65)
 
-**⚡ Fun Fact:** The best security defense is the one you never notice because it just works!
+**⚡ Fun Fact:** Self-taught sejak SMA, aktif hunting bugs di HackerOne, dan building custom DDoS/Anti-DDoS tools. The journey from zero to cybersecurity expert is still ongoing! 🚀
 
 *Last Updated: December 2025*
 
